@@ -72,6 +72,18 @@ export const DATA = {
 
   work: [
     {
+      company: "Tata Consultancy Services",
+      href: "https://www.tcs.com/",
+      badges: [],
+      location: "Pune, India",
+      title: "Assistant System Engineer",
+      logoUrl: "/logo-rgb-black.png",
+      start: "December 2025",
+      end: "Present",
+      description:
+        " Working as a Full Stack Developer in TCS with major focus on developing web applications using React, Next.js and Node.js. Involved in designing scalable architecture and implementing robust backend services. Collaborating with cross-functional teams to deliver high-quality software solutions that meet client requirements.",
+    },
+    {
       company: "Fillracks",
       href: "https://fillracks.com/",
       badges: [],
