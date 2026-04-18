@@ -4,14 +4,14 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Krishna Patil",
   initials: "KP",
-  url: "https://dillion.io",
+  url: "https://krishna-portfolio-inky.vercel.app/",
   location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  locationLink: "https://www.google.com/maps/place/pune",
   description:
     "Strong hold in developing full stack web appications, solving complex problems and building AI agents.",
   summary:
     "Enthusiastic graduate with a strong foundation in web development, OOP, and building AI agents. Attempting to contribute to software solutions while continuously learning and growing in a collaborative environment. Also a part time freelancer working on real world projects.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/krishna_cropped.png",
   skills: [
     "React",
     "Next.js",
@@ -22,7 +22,6 @@ export const DATA = {
     "MongoDB",
     "Docker",
     "Kubernetes",
-    "Java",
     "C++",
   ],
   navbar: [
