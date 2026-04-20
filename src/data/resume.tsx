@@ -5,13 +5,13 @@ export const DATA = {
   name: "Krishna Patil",
   initials: "KP",
   url: "https://krishna-portfolio-inky.vercel.app/",
-  location: "San Francisco, CA",
+  location: "Pune, Maharashtra",
   locationLink: "https://www.google.com/maps/place/pune",
   description:
     "Strong hold in developing full stack web appications, solving complex problems and building AI agents.",
   summary:
     "Enthusiastic graduate with a strong foundation in web development, OOP, and building AI agents. Attempting to contribute to software solutions while continuously learning and growing in a collaborative environment. Also a part time freelancer working on real world projects.",
-  avatarUrl: "/krishna_cropped.png",
+  avatarUrl: "/me.png",
   skills: [
     "React",
     "Next.js",
@@ -75,7 +75,7 @@ export const DATA = {
       href: "https://www.tcs.com/",
       badges: [],
       location: "Pune, India",
-      title: "Assistant System Engineer",
+      title: "GenAI Developer",
       logoUrl: "/logo-rgb-black.png",
       start: "December 2025",
       end: "Present",
